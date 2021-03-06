@@ -1,0 +1,16 @@
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\bin\Debug\net5.0\videos-catalog.exe
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\bin\Debug\net5.0\videos-catalog.deps.json
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\bin\Debug\net5.0\videos-catalog.runtimeconfig.json
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\bin\Debug\net5.0\videos-catalog.runtimeconfig.dev.json
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\bin\Debug\net5.0\videos-catalog.dll
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\bin\Debug\net5.0\ref\videos-catalog.dll
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\bin\Debug\net5.0\videos-catalog.pdb
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.csprojAssemblyReference.cache
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.AssemblyInfo.cs
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.dll
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\ref\videos-catalog.dll
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.pdb
+D:\Desenvolvimento\Capacitação\DIO\Bootcamp - MRV .NET Developer\projetos\videos-catalog\obj\Debug\net5.0\videos-catalog.genruntimeconfig.cache
