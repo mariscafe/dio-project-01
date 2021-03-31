@@ -11,7 +11,6 @@
 - Utilização de recursos de coleção
 
 ***
-***
 
 ## Implementação adicional
 
